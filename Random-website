@@ -3,6 +3,10 @@
   <body>
 <script>
 
+var a1 = 'welcome'
+alert (a1)
+
+
 
 
 
